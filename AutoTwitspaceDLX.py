@@ -21,8 +21,8 @@ from twspace_dl import TwspaceDL
 
 
 #Let's define some important variables
-BASE_PATH = "D:/Spaces/" # Base Directory (MUST END WITH SLASH)
-NOTIF_URL = "Your Webhook URL" # Discord Webhook url for the notification
+BASE_PATH = "C:/Users/Reno/Music/Twitter Space/" # Base Directory (MUST END WITH SLASH)
+NOTIF_URL = "https://discord.com/api/webhooks/978868301935558676/sGlXA-ywol9H1DJ43AaE_MmyU-RmnkJ7W1hF8cFokXgegdqFItdYh5ia2qvDGwt6ZfnO" # Discord Webhook url for the notification
 INTERVAL = 5 # The interval for the monitor to sleep (In Seconds)
 
 # First we want to be able to read a file that contains all of the
