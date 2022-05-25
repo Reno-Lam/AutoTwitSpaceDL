@@ -10,7 +10,7 @@ import threading
 import time
 import os
 
-BASE_PATH = "C:/Users/Reno/Music/Twitter Space/" # Base Directory (MUST END WITH SLASH)
+BASE_PATH = "E:/Twitter Space/" # Base Directory (MUST END WITH SLASH)
 
 def MakeDirs(Users):
     for User in Users:
